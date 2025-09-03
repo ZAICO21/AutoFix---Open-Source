@@ -11,6 +11,8 @@
   <br>
   Sección: 7385
   <br>
+  Profesor: Juan Antonio Flores Moroco
+  <br>
   Semestre: 2025-20
   <br>
   Informe del Trabajo Final
@@ -32,11 +34,19 @@
 
 </div>
 
-<div align="center"> Abril 2025 </div>
+<div align="center"> Setiembre 2025 </div>
 
 <hr>
 
 <div style="page-break-after: always;"></div>
+
+# Registro de Versiones del Informe  
+
+---
+
+# Project Report Collaboration Insights  
+
+---
 
 # Contenido
 - [Capítulo I: Introducción](#capítulo-i-introducción)
