@@ -25,7 +25,7 @@
 | <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
 |:-------------------------------------------:|:-------------------------------------------:|
 |       Cesar Augusto Arostegui Alzamora      |            UXXXXXXXXX                       |
-|       Gianmarco Fabian Jiménez Guerra       |            U202123943                       |
+|       Gianmarco Fabian Jiménez Guerra       |            U202123843                       |
 |       Alexander Gabriel Montoya Torres      |            UXXXXXXXXX                       |
 |       Alicia Avril Navarro Chang            |            UXXXXXXXXX                       |
 |       Piero Francesco Tenorio Medina        |            UXXXXXXXXX                       |
